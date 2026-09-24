@@ -32,3 +32,9 @@ This repository contains data used to test [JSON for Modern C++](https://github.
 - Origin: <https://github.com/nst/JSONTestSuite>
 - Author: Nicolas Seriot
 - License: MIT
+
+### BON8 files
+
+- The `*.bon8` files next to the JSON files were created with the BON8 encoder of [HikoGUI](https://github.com/hikoworks/hikogui) (`src/hikogui/codec/BON8.hpp`), which implements the [BON8 specification](https://github.com/hikoworks/hikogui/blob/main/docs/BON8.md).
+- Encoder author: [Take Vos](https://github.com/takev)
+- Encoder license: Boost Software License 1.0
